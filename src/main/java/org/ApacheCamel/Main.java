@@ -9,6 +9,8 @@ public class Main {
         System.out.println("tytrytyutu");
         System.out.println("MAR-005");
         System.out.println("MAR-005");
+        System.out.println("MAR-006");
+        System.out.println("MAR-006");
     }
 }
 
