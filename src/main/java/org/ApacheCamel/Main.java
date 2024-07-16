@@ -13,6 +13,8 @@ public class Main {
         System.out.println("MAR-006");
         System.out.println("MAR-007");
         System.out.println("MAR-007");
+        System.out.println("MAR-008");
+        System.out.println("MAR-008");
     }
 }
 
