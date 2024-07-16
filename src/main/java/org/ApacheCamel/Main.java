@@ -7,6 +7,8 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("dfsfasdffd");
         System.out.println("tytrytyutu");
+        System.out.println("MAR-005");
+        System.out.println("MAR-005");
     }
 }
 
